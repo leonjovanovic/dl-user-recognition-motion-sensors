@@ -27,12 +27,14 @@
 *Generated output*
 
 ## Data processing
-The second part is data processing to prepare them for insertion into the algorithm and to create different architectures of deep neural networks. All input text files need to have same amount of lines and same formating for input files to be ready for creating dataset. Second thing is to create three datasets from original 200Hz dataset. This will be done by taking out every second or forth line to get dataset with 50Hz and 100Hz. Third thing is creating vector from x, y and z coordinates, so we can test if vector perform better in future tests. After this phase we will have total of six datasets. 
-All scripts for formating can be found in */Deep Learning/Python scripts/Formating input data/* folder.
+The second part is data processing to prepare them for insertion into the algorithm. All input text files need to have same amount of lines and same formating for input files to be ready for creating dataset. Second thing is to create three datasets from original 200Hz dataset. This will be done by taking out every second or forth line to get dataset with 50Hz and 100Hz. Third thing is creating vector from x, y and z coordinates, so we can test if vector perform better in future tests. After this phase we will have total of six datasets. 
+All python scripts for formating can be found in */Deep Learning/Python scripts/Formating input data/* folder.
 
 
 ## Applying deep learning algorithms
-The third part of the paper is iterating different data sets through different parameters of all neural network models made in the previous step and recording accuracy statistics.
+The third part of the paper is iterating different data sets through different hyperparameters of many different deep neural network models and recording accuracy statistics. Results are recorded every tenth iteration as arithmetic mean for better precision. Python script can be found in */Deep Learning/Python scripts/Deep Learning scripts/test.py*
+
+## Results
 
   
 
