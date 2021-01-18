@@ -15,6 +15,7 @@
 
 ## Collecting data
   The first part of the thesis was data collection, which will be later entered into the algorithm. One test represents 60 seconds of recording data from the accelerometer and gyroscope in unique situations at a frequency of 200Hz. One situation is a combination of characteristics such as number, gender, location, age and language of the speaker. 315 tests were performed for a certain period of time. Collecting is done with small Unity application which will generate input (sensor values) and output (speaker attributes).
+  Unity project can be found in */Gyroscope data/* folder.
   
 ![](images/unity_data.jpg)
 *Gyroscope data Unity application*
@@ -26,7 +27,9 @@
 *Generated output*
 
 ## Data processing
-The second part is data processing to prepare them for insertion into the algorithm and to create different architectures of deep neural networks.
+The second part is data processing to prepare them for insertion into the algorithm and to create different architectures of deep neural networks. All input text files need to have same amount of lines and same formating for input files to be ready for creating dataset. Second thing is to create three datasets from original 200Hz dataset. This will be done by taking out every second or forth line to get dataset with 50Hz and 100Hz. Third thing is creating vector from x, y and z coordinates, so we can test if vector perform better in future tests. After this phase we will have total of six datasets. 
+All scripts for formating can be found in */Deep Learning/Python scripts/Formating input data/* folder.
+
 
 ## Applying deep learning algorithms
 The third part of the paper is iterating different data sets through different parameters of all neural network models made in the previous step and recording accuracy statistics.
