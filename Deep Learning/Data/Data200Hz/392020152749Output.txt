@@ -1,0 +1,2 @@
+BgNoise	Lang	Dist	#Pers	#M	#F	Y1	Y2	Y3	Y4	Y5	Y6	Letter/Num/Word..
+0	Serbian	0-2	1	1	0	23						a
