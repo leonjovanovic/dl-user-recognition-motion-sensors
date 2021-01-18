@@ -20,7 +20,10 @@
 *Gyroscope data Unity application*
   
 ![](images/data.png)
-*Generated input*
+*Generated input*  
+
+![](images/Output.png)
+*Generated output*
 
   
 
