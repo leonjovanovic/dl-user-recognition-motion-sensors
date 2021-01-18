@@ -17,8 +17,10 @@
   The first part of the thesis was data collection, which will be later entered into the algorithm. One test represents 60 seconds of recording data from the accelerometer and gyroscope in unique situations at a frequency of 200Hz. One situation is a combination of characteristics such as number, gender, location, age and language of the speaker. 315 tests were performed for a certain period of time. Collecting is done with small Unity application which will generate input (sensor values) and output (speaker attributes).
   
 ![](images/unity_data.jpg)
-*image_caption*
-<p style="text-align: center;">Centered text</p>
+*Gyroscope data Unity application*
+  
+![](images/data.png)
+*Generated input*
 
   
 
