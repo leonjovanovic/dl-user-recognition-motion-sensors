@@ -13,7 +13,7 @@
   * speakers years (<18, 18-30, >30)
   * certain letters or words ('a', 'knjiga', 'letter', 'schmetterling')
 
-### Collecting data
-  The first part of the thesis was data collection, which will be later entered into the algorithm. One test represents 60 seconds of recording data from the accelerometer and gyroscope in unique situations at a frequency of 200Hz. One situation is a combination of characteristics such as number, gender, location, age and language of the speaker. 315 tests were performed for a certain period of time.
+## Collecting data
+    The first part of the thesis was data collection, which will be later entered into the algorithm. One test represents 60 seconds of recording data from the accelerometer and gyroscope in unique situations at a frequency of 200Hz. One situation is a combination of characteristics such as number, gender, location, age and language of the speaker. 315 tests were performed for a certain period of time.
 
 
