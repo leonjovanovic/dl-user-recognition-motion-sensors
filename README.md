@@ -18,6 +18,8 @@
   
 ![](images/unity_data.jpg)
 *image_caption*
+<p style="text-align: center;">Centered text</p>
+
   
 
 
