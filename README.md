@@ -38,14 +38,14 @@ The third part of the paper is iterating different data sets through different h
 
 Goal | Number of categories | Random selection [%] | Best accuracy achieved [%] | Average accuracy achieved [%]
 ------------- | ------------- | ------------ | ------------- | ------------
-Background Noise | 4 | 25 | 88.89 | 88.89
-Language | 3 | 33.33 | 46.03 | 39.21
-Distance | 3 | 33.33 | 84.13 | 83.18
-#Persons | 6 | 16.67 | 61.91 | 58.89
-#Male | 2 | 50 | 68.25 | 50.21
-#Female | 2 | 50 | 69.84 | 61.59
-Years | 3 | 33.33 | 76.19 | 64.13
-Letter/Word | 5 | 20 | 76.19 | 75.08
+**Background Noise** | 4 | 25 | 88.89 | 88.89
+**Language** | 3 | 33.33 | 46.03 | 39.21
+**Distance** | 3 | 33.33 | 84.13 | 83.18
+**#Persons** | 6 | 16.67 | 61.91 | 58.89
+**#Male** | 2 | 50 | 68.25 | 50.21
+**#Female** | 2 | 50 | 69.84 | 61.59
+**Years** | 3 | 33.33 | 76.19 | 64.13
+**Letter/Word** | 5 | 20 | 76.19 | 75.08
 
 
 
