@@ -37,8 +37,10 @@ The third part of the paper is iterating different data sets through different h
 ## Results
 
 Goal | Number of categories | Random selection [%] | Best accuracy achieved [%] | Average accuracy achieved [%]
-Background Noise | ------------- | ------------ | ------------- | ------------
+------------- | ------------- | ------------ | ------------- | ------------
 Content from cell 1 | Content from cell 2 | Content from cell 1 | Content from cell 2 | Content from cell 1
+Content in the first column | Content in the second column | Content in the first column | Content in the second column | Content in the first column
+Content in the first column | Content in the second column | Content in the first column | Content in the second column | Content in the first column
 Content in the first column | Content in the second column | Content in the first column | Content in the second column | Content in the first column
 
 
