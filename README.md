@@ -25,6 +25,12 @@
 ![](images/Output.png)
 *Generated output*
 
+## Data processing
+The second part is data processing to prepare them for insertion into the algorithm and to create different architectures of deep neural networks.
+
+## Applying deep learning algorithms
+The third part of the paper is iterating different data sets through different parameters of all neural network models made in the previous step and recording accuracy statistics.
+
   
 
 
