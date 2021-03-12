@@ -1,4 +1,4 @@
-# Application of deep learning algorithms in user recognition based on motion sensors.
+# Deep learning algorithms in user recognition based on motion sensors.
 
 ## Summary
 &nbsp;&nbsp;&nbsp;&nbsp;Goal of the thesis is to find out if it possible to find some attributes of speakers who are speaking near smartphone in idle state (on nearby horizontal surface) based on values from accelerometer and gyroscope. Accelerometer and gyroscope are very sensitive sensors which means they will catch some vibrations even though phone is not moving. We will then input sensor values into deep learning algorithm using Tensorflow to learn based on output we manually created for each test. 
